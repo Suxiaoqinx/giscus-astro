@@ -1,3 +1,3 @@
 {
-  "origins": ["https://blog.toubiec.cn"]
+  "origins": ["https://blog.toubiec.cn","https://vercel-blog.toubiec.cn","http://localhost:4321"]
 }
